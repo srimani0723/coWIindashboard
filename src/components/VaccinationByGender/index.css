@@ -1,0 +1,13 @@
+.vacc-by-gender-container {
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+}
+.vacc-by-gender-h1 {
+  color: #94a3b8;
+  margin-top: 0px;
+  font-size: larger;
+  font-family: 'Roboto';
+}
